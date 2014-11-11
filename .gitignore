@@ -1,0 +1,14 @@
+# ignore classes
+*.class
+
+# ignore test dictionaries
+*.lst
+
+# Dot files in project you do not want
+.project
+.classpath
+
+# class folders
+classes/
+bin/
+
