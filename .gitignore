@@ -5,8 +5,9 @@
 *.lst
 
 # Dot files in project you do not want
-.project
-.classpath
+# Found out may be necessary, uncomment if not
+#.project
+#.classpath
 
 # class folders
 classes/
